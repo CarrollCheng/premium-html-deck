@@ -1,0 +1,5 @@
+interface:
+  display_name: Premium HTML Deck
+  short_description: Create polished projection-ready HTML slide decks from rough content.
+  icon: presentation
+  color: "#4f8cff"
